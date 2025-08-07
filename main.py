@@ -1,14 +1,27 @@
 import tkinter as tk
 import random
+from tkinter import messagebox
 
+## Main Menu
 root = tk.Tk()
 root.title("RPS! Python")
 
+gamename_label = tk.Label(
+    root, 
+    text="RPS! Python", 
+    font=("arial", 12, "bold"), 
+    fg="blue"
+)
+made_by_label = tk.Label(
+root,
+text="Made by GAB644",
+font=("Arial", 8, "normal")
+)
 label = tk.Label(root, text="Ready to play?")
-made_by_label = tk.Label(root, text="Made by GAB644", font=("Arial", 12, "bold"))
+gamename_label.pack()
 made_by_label.pack()
 label.pack()
-root.geometry("170x100")   
+root.geometry("170x120")   
 
 # Choose Window
 def show_new_window():
@@ -20,7 +33,7 @@ def show_new_window():
 
     label = tk.Label(choose_window, text="Rock, Paper, or Scissors?")
     label.pack(pady=10)
-
+# rock
     def choose_rock():
         choose_window.destroy()
 
@@ -56,7 +69,7 @@ def show_new_window():
         back_button.pack()
 
         result_window.protocol("WM_DELETE_WINDOW", root.destroy)
-
+# paper
     def choose_paper():
         choose_window.destroy()
 
@@ -92,7 +105,7 @@ def show_new_window():
         back_button.pack()
 
         result_window.protocol("WM_DELETE_WINDOW", root.destroy)
-
+# scissors
     def choose_scissors():
         choose_window.destroy()
 
