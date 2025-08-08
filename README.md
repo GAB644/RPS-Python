@@ -6,5 +6,5 @@ the ai is rng, also has ui graphics.
 Feel free to use
 <br></br>
 <h1>Screenshots</h1>
-<img src="screenshots/1.png" alt="Main Menu window" weight="" height="">
-<img src="screenshots/2.png" alt="Choosing window" weight="" height="">
+<img src="screenshots/1.jpg" alt="Main Menu window" weight="100" height="200">
+<img src="screenshots/2.jpg" alt="Choosing window" weight="200" height="250">
