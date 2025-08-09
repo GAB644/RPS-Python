@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "RPS! Python"
-version = "0.1.4"
+version = "0.1.5"
 description = "a rock paper scissors game written in python. made by one person"
 authors = ["GAB644 <https://sites.google.com/view/gab644>"]
 
