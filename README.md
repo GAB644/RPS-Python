@@ -1,6 +1,7 @@
 <img src="LogoFull.png" height="80">
+<p>0.1.5</p>
 <h1></h1>
-<h3>0.1.5</h3>
+
 a rock paper scissors game, written in python.
 the ai is rng, also has ui graphics.
 
