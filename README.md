@@ -1,3 +1,6 @@
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/ef334d9734664cdf956c48906e196d15)](https://app.codacy.com/gh/GAB644/RPS-Python?utm_source=github.com&utm_medium=referral&utm_content=GAB644/RPS-Python&utm_campaign=Badge_Grade)
+
 <img src="LogoFull.png" height="80">
 <p>version <b>0.1.5</b></p>
 <h1></h1>
