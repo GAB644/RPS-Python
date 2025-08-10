@@ -2,7 +2,7 @@
 <!-- badges -->
 <a href="https://app.codacy.com/gh/GAB644/RPS-Python/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade"><img src="https://app.codacy.com/project/badge/Grade/1ce02917edc647a3a3021461dfa85ec4"/></a>
 <img alt="Static Badge" src="https://img.shields.io/badge/only---?style=flat&label=Python&labelColor=336E9D&color=FFD643">
-<img alt="Static Badge" src="https://img.shields.io/badge/MIT---?style=flat&label=License&labelColor=orange&color=white&link=%2FLICENSE">
+<img alt="Static Badge" src="https://img.shields.io/badge/License---?style=flat&label=MIT&labelColor=white&color=orange&link=%2FLICENSE">
 
 
 
