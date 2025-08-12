@@ -14,7 +14,17 @@ a rock paper scissors game, written in python.
 the ai is rng, also has ui graphics.
 
 Feel free to use
-<br></br>
+<br>
+<h1>Concent</h1>
+
+> i do not concent my code to be trained/stolen by ai models,
+
+> i do not concent reposting and claiming it as theirs,
+
+> personal use only
+
+> credit would be appreciated
+<br>
 <h1>Screenshots</h1>
 <img src="screenshots/1-ver0.1.5.jpg" alt="Main Menu window" weight="150" height="150">
 <img src="screenshots/2.jpg" alt="Choosing window" weight="180" height="180">
