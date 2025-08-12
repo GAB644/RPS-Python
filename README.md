@@ -7,7 +7,7 @@
 
 
 <!-- info -->
-<p>version <b>0.1.5</b></p>
+<p>version <b>0.1.5.2</b></p>
 <h1></h1>
 
 a rock paper scissors game, written in python.
