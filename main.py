@@ -34,6 +34,7 @@ label = tk.Label(root, text="Ready to play?")
 made_by_label.pack()
 label.pack()
 root.geometry("170x120")
+root.resizable(False, False)
 
 # Choose Window
 def show_new_window():
@@ -42,6 +43,7 @@ def show_new_window():
     choose_window = tk.Toplevel(root)
     choose_window.title("Choose")
     choose_window.geometry("180x200")
+    choose_window.resizable(False, False)
 
     label = tk.Label(choose_window, text="Rock, Paper, or Scissors?")
     label.pack(pady=10)
@@ -54,6 +56,7 @@ def show_new_window():
         result_window = tk.Toplevel(root)
         result_window.title("Chosen Rock")
         result_window.geometry("250x180")
+        result_window.resizable(False, False)
 
         label = tk.Label(result_window, text="You chose Rock!")
         label.pack(pady=10)
@@ -91,6 +94,7 @@ def show_new_window():
         result_window = tk.Toplevel(root)
         result_window.title("Chosen Paper")
         result_window.geometry("250x200")
+        result_window.resizable(False, False)
 
         label = tk.Label(result_window, text="You chose Paper!")
         label.pack(pady=10)
@@ -128,6 +132,7 @@ def show_new_window():
         result_window = tk.Toplevel(root)
         result_window.title("Chosen Scissors")
         result_window.geometry("250x200")
+        result_window.resizable(False, False)
 
         label = tk.Label(result_window, text="You chose Scissors!")
         label.pack(pady=10)
