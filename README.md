@@ -24,7 +24,12 @@ Feel free to use
 > personal use only
 
 > credit would be appreciated
+
+<p>Read the license for licence stuff ig</p>
+
 <br>
 <h1>Screenshots</h1>
 <img src="screenshots/1-ver0.1.5.jpg" alt="Main Menu window" weight="150" height="150">
 <img src="screenshots/2.jpg" alt="Choosing window" weight="180" height="180">
+<br>
+
