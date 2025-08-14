@@ -31,9 +31,14 @@ Feel free to use
 <h1>Screenshots</h1>
 <h3>Windows</h3>
 <img src="screenshots/1.win11.png"alt="Main Menu window" weight="180" height="150">
-<img src="screenshots/2.win11.jpg" alt="Choosing window" weight="180" height="180">
+<img src="screenshots/2.win11.png" alt="Choosing window" weight="180" height="180">
 <h3>linux</h3>
 <img src="screenshots/1-ver0.1.5.jpg" alt="Main Menu window" weight="150" height="150">
 <img src="screenshots/2.jpg" alt="Choosing window" weight="180" height="180">
 <br>
 
+<h3>Running</h3>
+all you need is the latest python version and main.py
+
+<a href="https://www.python.org/downloads/">Install Python</a>, then just run the main.py.
+it should run the window normally
