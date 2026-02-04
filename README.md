@@ -43,3 +43,4 @@ all you need is the latest python version and main.py
 <a href="https://www.python.org/downloads/">Install Python</a>, then just run the main.py.
 it should run the window normally
 <br>
+alternatively extract the executable version and run the .exe</p>
